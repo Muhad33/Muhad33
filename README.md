@@ -1,18 +1,32 @@
-# 💫 About Me:
-👋 Hi, I'm Muhammed Muhad<br>🚀 Electronics & Computing Enthusiast | VLSI & Digital Design | Signal Processing | FPGA, Verilog, RISC-V | Embedded Systems | Applied Mathematics<br><br>🔭 I’m currently working on FPGA-based designs, RISC-V toolchain setup, and hardware neural network implementations<br><br>🤝 I’m looking to collaborate on VLSI, digital design, signal processing, and math-driven hardware solutions<br><br>🌱 I’m currently learning advanced digital design, Cadence tools, and applied math for optimization in electronics<br><br>💬 Ask me about Verilog, FPGA design, RISC-V, signal processing, or mathematical approaches to engineering problems<br><br>⚡ Fun fact: I love connecting mathematics with electronics to create innovative solutions
+# Muhammed Muhad
 
+Electronics & Communication Engineering student based in Kochi, India.
+I'm interested in communication systems, RF engineering, VLSI and digital/analog design, FPGA and DSP.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhad-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhadpsy@gmail.com) 
+## Projects
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhad33&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhad33&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhad33&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+**Digital design & VLSI**
+- [riscv-pipelined-cpu](https://github.com/Muhad33/riscv-pipelined-cpu): 5-stage pipelined RV32I core in Verilog with forwarding, hazard detection, a Python golden model, random-program verification and Yosys synthesis
+- [verilog-uart](https://github.com/Muhad33/verilog-uart): UART transmitter/receiver in Verilog with 16x oversampling, optional parity and self-checking testbenches
+- [8bit-ALU](https://github.com/Muhad33/8bit-ALU): 8-bit ALU in Verilog (14 operations, zero/carry/overflow flags) with a self-checking testbench
 
----
-[![](https://visitcount.itsvg.in/api?id=Muhad33&icon=0&color=0)](https://visitcount.itsvg.in)
+**Communications & DSP**
+- [ofdm-transceiver](https://github.com/Muhad33/ofdm-transceiver): end-to-end OFDM link over Rayleigh multipath with LS channel estimation, ZF/MMSE equalization, PAPR analysis and fixed-point test vectors
+- [ber-awgn-simulator](https://github.com/Muhad33/ber-awgn-simulator): Monte Carlo BER of BPSK, QPSK and 16-QAM over AWGN, checked against theory
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**RF engineering**
+- [rf-amplifier-design-toolkit](https://github.com/Muhad33/rf-amplifier-design-toolkit): single-stage LNA design from S-parameters: stability, gain and noise circles, lumped and microstrip matching, Monte Carlo tolerance analysis
+- [smith-chart-matching-tool](https://github.com/Muhad33/smith-chart-matching-tool): L-section and single-stub impedance matching with Smith chart visualization
+
+**FPGA**
+- [FIR-Audio-Filter](https://github.com/Muhad33/FIR-Audio-Filter): IIR biquad audio filters (LPF/HPF/BPF) designed in MATLAB/Simulink, generated with HDL Coder and deployed on a Xilinx Zedboard with the ADAU1761 codec
+
+## Tools
+
+**HDL & EDA:** Verilog, Icarus Verilog, GTKWave, Yosys, Vivado, MATLAB/Simulink HDL Coder
+**Languages & libraries:** Python (NumPy, SciPy, Matplotlib, scikit-rf), C, RISC-V assembly
+**Hardware:** Xilinx Zedboard, Arduino
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/muhad-/) · muhadpsy@gmail.com
