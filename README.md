@@ -23,9 +23,9 @@ I'm interested in communication systems, RF engineering, VLSI and digital/analog
 
 ## Tools
 
-**HDL & EDA:** Verilog, Icarus Verilog, GTKWave, Yosys, Vivado, MATLAB/Simulink HDL Coder
-**Languages & libraries:** Python (NumPy, SciPy, Matplotlib, scikit-rf), C, RISC-V assembly
-**Hardware:** Xilinx Zedboard, Arduino
+- **HDL & EDA:** Verilog, Icarus Verilog, GTKWave, Yosys, Vivado, MATLAB/Simulink HDL Coder
+- **Languages & libraries:** Python (NumPy, SciPy, Matplotlib, scikit-rf), C, RISC-V assembly
+- **Hardware:** Xilinx Zedboard, Arduino
 
 ## Contact
 
