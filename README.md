@@ -16,6 +16,7 @@ I'm interested in communication systems, RF engineering, VLSI and digital/analog
 - [ber-awgn-simulator](https://github.com/Muhad33/ber-awgn-simulator): Monte Carlo BER of BPSK, QPSK and 16-QAM over AWGN, checked against theory
 
 **RF engineering**
+- [openems-patch-antenna](https://github.com/Muhad33/openems-patch-antenna): 2.45 GHz inset-fed patch antenna on FR4, designed analytically, simulated and tuned with openEMS FDTD (mesh convergence, S11 −46.8 dB, 3.3 dBi gain, NF2FF patterns) and exported to Gerber/KiCad for fabrication, with a NanoVNA measurement workflow
 - [rf-amplifier-design-toolkit](https://github.com/Muhad33/rf-amplifier-design-toolkit): single-stage LNA design from S-parameters: stability, gain and noise circles, lumped and microstrip matching, Monte Carlo tolerance analysis
 - [smith-chart-matching-tool](https://github.com/Muhad33/smith-chart-matching-tool): L-section and single-stub impedance matching with Smith chart visualization
 
@@ -26,6 +27,7 @@ I'm interested in communication systems, RF engineering, VLSI and digital/analog
 
 - **HDL & EDA:** Verilog, Icarus Verilog, GTKWave, Yosys, Vivado, MATLAB/Simulink HDL Coder
 - **ASIC flow:** LibreLane / OpenLane 2, OpenROAD, OpenSTA, Magic, KLayout, Netgen, SkyWater sky130 PDK
+- **EM simulation:** openEMS (FDTD), CSXCAD
 - **Languages & libraries:** Python (NumPy, SciPy, Matplotlib, scikit-rf), C, RISC-V assembly
 - **Hardware:** Xilinx Zedboard, Arduino
 
