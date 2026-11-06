@@ -7,6 +7,7 @@ I'm interested in communication systems, RF engineering, VLSI and digital/analog
 
 **Digital design & VLSI**
 - [riscv-pipelined-cpu](https://github.com/Muhad33/riscv-pipelined-cpu): 5-stage pipelined RV32I core in Verilog with forwarding, hazard detection, a Python golden model, random-program verification and Yosys synthesis
+- [riscv-gdsii-openlane](https://github.com/Muhad33/riscv-gdsii-openlane): the RV32I core taken from RTL to a signed-off GDSII layout on SkyWater sky130 with LibreLane/OpenLane 2: 50 MHz with timing met in all 9 corners, clean DRC/LVS/antenna, clock-period sweep and gate-level simulation of the final netlist
 - [verilog-uart](https://github.com/Muhad33/verilog-uart): UART transmitter/receiver in Verilog with 16x oversampling, optional parity and self-checking testbenches
 - [8bit-ALU](https://github.com/Muhad33/8bit-ALU): 8-bit ALU in Verilog (14 operations, zero/carry/overflow flags) with a self-checking testbench
 
@@ -24,6 +25,7 @@ I'm interested in communication systems, RF engineering, VLSI and digital/analog
 ## Tools
 
 - **HDL & EDA:** Verilog, Icarus Verilog, GTKWave, Yosys, Vivado, MATLAB/Simulink HDL Coder
+- **ASIC flow:** LibreLane / OpenLane 2, OpenROAD, OpenSTA, Magic, KLayout, Netgen, SkyWater sky130 PDK
 - **Languages & libraries:** Python (NumPy, SciPy, Matplotlib, scikit-rf), C, RISC-V assembly
 - **Hardware:** Xilinx Zedboard, Arduino
 
